@@ -18,7 +18,7 @@ $ cat skills.txt
 
 $ ls projects/
 📦 [project1/] - [Description, e.g., "Multithreaded scraper for e-commerce data"]  
-📦 [project2/] - [Description, e.g., "CLI tool to monitor server uptime"]  
+📦 [project2/] - [Description, e.g., "IMDB MovieScraper"]  
 
 $ cat education.txt
 > [Self-taught since 2023]  
