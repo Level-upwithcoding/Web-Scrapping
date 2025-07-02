@@ -1,0 +1,31 @@
+───────────────────────────────────────────────────
+  ██████╗ ██╗   ██╗███████╗ ██████╗ ██╗   ██╗
+  ██╔══██╗╚██╗ ██╔╝██╔════╝██╔═══██╗╚██╗ ██╔╝
+  ██████╔╝ ╚████╔╝ ███████╗██║   ██║ ╚████╔╝ 
+  ██╔══██╗  ╚██╔╝  ╚════██║██║   ██║  ╚██╔╝  
+  ██║  ██║   ██║   ███████║╚██████╔╝   ██║   
+  ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝    ╚═╝   
+───────────────────────────────────────────────────
+$ whoami
+> [Luka Nozadze] | Self-taught Python Developer  
+> Focused on [Web Scraping, Automation, Linux Tools, Data Science, Machine Learning]  
+
+$ cat skills.txt
+> PYTHON: Scrapy, Selenium, Flask, Pandas  
+> WEB: APIs, Proxy Rotation, Data Parsing  
+> LINUX: Bash Scripting, Cron Jobs, Log Analysis  
+> TOOLS: Git, Docker, PostgreSQL  
+
+$ ls projects/
+📦 [project1/] - [Description, e.g., "Multithreaded scraper for e-commerce data"]  
+📦 [project2/] - [Description, e.g., "CLI tool to monitor server uptime"]  
+
+$ cat education.txt
+> [Self-taught since 2023]  
+> Certifications: ["Python for Data Science (Coursera)"]  
+
+$ ./contact.sh
+> 📧 [luka.nozadze.02.24@gmail.com]  
+> 🌐 [https://github.com/Level-upwithcoding]  
+> 🔗 [www.linkedin.com/in/luka-nozadze-910959262]  
+───────────────────────────────────────────────────
